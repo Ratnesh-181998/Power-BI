@@ -1,6 +1,34 @@
 # Power-BI
 Microsoft Power BI is a powerful cloud-based business intelligence and data visualization platform developed by Microsoft. It enables businesses to connect to diverse, raw data sources, transform that data into structured models, and build highly interactive dashboards and reports.
 
+---
+
+# 🔎 Core Applications of the Ecosystem 
+
+## Power BI consists of three primary, interrelated components that take you from data preparation to consumption:
+
+### Power BI Desktop: 
+- A free Windows application used by data analysts to connect to data sources, clean information, build data models, and design visual reports.
+### Power BI Service: 
+- A cloud-based Software as a Service (SaaS) platform where reports are published, shared, and updated for secure team collaboration.
+### Power BI Mobile: 
+- Native mobile apps (iOS and Android) designed for business users to securely view and interact with live dashboards on the go.
+
+---
+
+# 📊 Key Technical Features 
+
+## The software functions using integrated internal tools that handle different stages of the data pipeline:
+
+### Power Query: 
+- The data connection and transformation engine. It lets you extract, transform, and load (ETL) data from spreadsheets, SQL servers, cloud files, and web APIs without complex coding.
+  
+### Data Modeling (Star Schema): 
+- Organizes separate tables by establishing relationships between them. It structures data into "facts" (the numeric metrics) and "dimensions" (the attributes by which you filter).
+### DAX (Data Analysis Expressions): 
+- A functional formula language used to calculate advanced business metrics, dynamic ratios, and time-intelligence trends.
+### AI Insights & Copilot: 
+- Leverages built-in machine learning and generative AI to surface underlying trends, answer natural language questions, and automate narrative summaries.
 
 ---
 
